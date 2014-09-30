@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pushConfig>
+	<service name="ios">
+		<setting property = "certificate">certifiactionFileLocation</setting>
+		<setting property = "password">certificationFilePassword</setting>
+	</service>
+	<service name="android">
+		<setting property = "apiKey">gcmAPIkey</setting>
+	</service>
+</pushConfig>
